@@ -6,7 +6,7 @@ const { Readable } = require('stream');
 module.exports = {
     config: {
         name: "alldl",
-        author: "Samir Œ",
+        author: "frnwot",
         description: "Downloads video from provided link and sends it to the chat",
         category: "utility",
         usage: "/alldownloader <url>",
