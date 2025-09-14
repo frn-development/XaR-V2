@@ -1,14 +1,14 @@
 {
   "prefix": "/",
   "greetNewMembers": {
-        "enabled": true,
-        "gifUrl": "https://tinyurl.com/2xzaydex"
+    "enabled": true,
+    "gifUrl": "https://tinyurl.com/2xzaydex"
   },
   "port": "8080",
-  "owner": "Samir Œ",
-  "owner_id": 1472439428,
-  "token": "",
-  "age": "14",
+  "owner": "frnwot",
+  "owner_id": 5836861332,
+  "token": "7649006259:AAEuOM3ItCQC4bmSywAEMfFzJr90b99spK4",
+  "age": "17",
   "gender": "male",
   "country": "Bangladesh"
 }
